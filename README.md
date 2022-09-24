@@ -1,4 +1,4 @@
-# DESTRUCTORS-IN-C-
+# DESTRUCTORS-IN-C++
 
 # Destructor is also a special member function like constructor. Destructor destroys the class objects created by constructor. 
 
